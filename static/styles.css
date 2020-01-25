@@ -1,4 +1,34 @@
 
+.btn{
+    background-color: rgb(255, 139, 31);
+    color: rgb(255, 139, 31);
+}
+
+.name_span{
+    color: rgb(255, 139, 31);
+
+}
+
+.info_span{
+    color: #5bc0de;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* 
 body{
 
@@ -19,4 +49,3 @@ body{
     /* background-size: cover;
     background-repeat: no-repeat;
 } */
-
