@@ -18,6 +18,66 @@
 
 }
 
+#tech_skills_header{
+    margin-bottom: 32px;
+    color: rgb(255, 139, 31);
+    text-decoration: underline;
+    text-decoration-color: #5bc0de;
+
+}
+
+.python_title{
+    margin-bottom: 100px;
+    color: #f5e837;
+    text-decoration: underline;
+}
+
+.js_title{
+    margin-bottom: 130px;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+
+.bs_title{
+    margin-bottom: -15px;
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+.vs_title{
+    margin-bottom: -34px;
+    color: rgb(255, 139, 31);
+    text-decoration: underline;
+}
+
+.git_title{
+    margin-top: 0px;
+    margin-bottom: 161px;
+    color: rgb(226, 226, 226);
+    text-decoration: underline;
+}
+
+.mysql_title{
+    margin-bottom: -10px;
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+.sql_title{
+    margin-top: 0px;
+    margin-bottom: -34px;
+    color: rgb(31, 173, 255);
+    text-decoration: underline;
+}
+
+.carousel-control-prev-icon{
+    background-color: #4591a8;
+}
+
+
+.carousel-control-next-icon{
+    background-color: #4591a8;
+}
 
 
 
