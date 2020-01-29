@@ -93,7 +93,7 @@ body{
 }
 
 #prof_xp_proj_head{
-    margin-top: 35px;
+    margin-top: 50px;
     margin-bottom: 20px;
 }
 
@@ -128,15 +128,34 @@ body{
 
 #edu_cert_head{
     margin-top: 30px;
-    margin-bottom: 25px;
+    margin-bottom: 35px;
 }
 
 .nav{
-    margin-top: 25px;
+    margin-top: 50px;
     margin-bottom: 15px;
 }
 
+.text-muted{
+    font-style: italic;
+    font-size: small;
+}
 
+#foot_logo_1{
+    width: 25px;
+}
+
+#foot_logo_2{
+    width: 25px;
+}
+
+#foot_logo_3{
+    width: 25px;
+}
+
+.foot_spans{
+    color: rgb(255, 139, 31);
+}
 
 
 /* 
