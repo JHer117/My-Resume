@@ -19,7 +19,7 @@ body{
 }
 
 .info_span{
-    color: #5bc0de;
+    color: #25a9d1;
 }
 
 .me1{
@@ -118,27 +118,6 @@ body{
 }
 
 
-
-/* .card-body{
-    background-color: #17a2b8;
-
-}
-
-.card-title{
-    color: rgb(243, 97, 12);
-
-}
-
-.card-subtitle{
-    color: rgb(192, 192, 192);
-}
-
-.card-link{
-    color: azure;
-    text-decoration: underline;
-    text-decoration-color: azure;
-} */
-
 #code_logo{
     width: 75px;
 }
@@ -152,7 +131,10 @@ body{
     margin-bottom: 25px;
 }
 
-
+.nav{
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
 
 
 
