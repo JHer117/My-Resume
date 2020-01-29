@@ -1,11 +1,11 @@
 body{
-    background-color: rgb(236, 234, 207);
+    background-color: rgb(247, 245, 229);
     /* background: rgb(255,131,63);
     background: linear-gradient(90deg, rgba(255,131,63,1) 1%, rgba(58,162,180,1) 35%, rgba(194,29,253,1) 100%);  */
 }
 
 #name_header{
-    margin-left: 5rem;
+    margin-left: 2.5rem;
 }
 
 .btn{
@@ -31,10 +31,12 @@ body{
 
 #tech_skills_header{
     margin-bottom: 32px;
+}
+
+.category_heads{
     color: rgb(255, 139, 31);
     text-decoration: underline;
     text-decoration-color: #5bc0de;
-
 }
 
 .python_title{
@@ -90,10 +92,31 @@ body{
     background-color: #4591a8;
 }
 
+#prof_xp_proj_head{
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
 
 
+.card-body{
+    background-color: #17a2b8;
 
+}
 
+.card-title{
+    color: rgb(243, 97, 12);
+
+}
+
+.card-subtitle{
+    color: rgb(192, 192, 192);
+}
+
+.card-link{
+    color: azure;
+    text-decoration: underline;
+    text-decoration-color: azure;
+}
 
 
 
