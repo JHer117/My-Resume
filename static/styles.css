@@ -133,7 +133,6 @@ body{
 
 .nav{
     margin-top: 50px;
-    margin-bottom: 15px;
 }
 
 .text-muted{
@@ -157,24 +156,31 @@ body{
     color: rgb(255, 139, 31);
 }
 
+#gitlink{
+    margin-top: 0px;
+}
 
-/* 
-body{
+i {
+    border: solid rgb(255, 139, 31);
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
 
-    background-color: rgba(185, 58, 202, 0.747);
-
-    background-image: url("https://data.whicdn.com/images/298310703/original.gif"); */
-    /* OTHER BG IMGS */
-
-    /* https://data.whicdn.com/images/260255716/original.gif */
-
-    /* https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.xmple.com%2Fwallpaper%2Flinear-cyan-gradient-pink-7680x4320-c2-f65bbb-01f2f2-a-60-f-14.svg&imgrefurl=https%3A%2F%2Fwww.xmple.com%2Fwallpaper%2Flinear-cyan-gradient-pink--c2-f65bbb-01f2f2-a-60-f-14-image%2F&tbnid=BYgZeH2E8gSScM&vet=10CGwQMyiKAWoXChMImMOzsISU5wIVAAAAAB0AAAAAEAI..i&docid=uCVKPy1SJdP7mM&w=7680&h=4320&hl=en&safe=off&client=firefox-b-1-d&ved=0CGwQMyiKAWoXChMImMOzsISU5wIVAAAAAB0AAAAAEAI */
-
-    /* https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2F4SgI90qdgYSxG%2Fsource.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fgifs%2Fvaporwave-4SgI90qdgYSxG&docid=ywHD3iuM20n5GM&tbnid=ORoSpebrJhrqTM%3A&vet=1&w=490&h=276&itg=1&hl=en&safe=off&client=firefox-b-1-d&bih=767&biw=1536&ved=2ahUKEwjX1dj0g5TnAhVBFjQIHSf9CF8QxiAoBHoECAEQIw&iact=c&ictx=1 */
-
-    /*  */
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
 
 
-    /* background-size: cover;
+  
+
+/* body{
+
+    background-image: url("https://data.whicdn.com/images/260255716/original.gif");
+
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUkOTodQ2AMHOFFL06_VJ9XFBUGlcHhO4Cw0na5Imhr3IGoMBwNw&s");
+
+    background-size: cover;
     background-repeat: no-repeat;
 } */
