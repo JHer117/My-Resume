@@ -118,8 +118,18 @@ body{
     text-decoration-color: azure;
 }
 
+#code_logo{
+    width: 75px;
+}
 
+#medic_symbol{
+    width: 75px;
+}
 
+#edu_cert_head{
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
 
 
 
