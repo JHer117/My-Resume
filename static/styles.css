@@ -97,8 +97,29 @@ body{
     margin-bottom: 20px;
 }
 
+.card{
+    background-color: #17a2b8;
+}
 
 .card-body{
+    background-color: rgb(247, 245, 229);
+}
+
+#btn1{
+    background-color: rgb(247, 245, 229);
+}
+
+#btn2{
+    background-color: rgb(247, 245, 229);
+}
+
+#btn3{
+    background-color: rgb(247, 245, 229);
+}
+
+
+
+/* .card-body{
     background-color: #17a2b8;
 
 }
@@ -116,7 +137,7 @@ body{
     color: azure;
     text-decoration: underline;
     text-decoration-color: azure;
-}
+} */
 
 #code_logo{
     width: 75px;
