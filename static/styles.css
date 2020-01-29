@@ -29,6 +29,18 @@ body{
 
 }
 
+#about_me_container{
+    background-color: rgba(173, 171, 171, 0.459);
+    margin-bottom: 20px;
+    border-radius: 5px;
+    
+}
+
+#about_me{
+    color: #2296b9;
+    
+}
+
 #tech_skills_header{
     margin-bottom: 32px;
 }
@@ -173,7 +185,7 @@ i {
   }
 
 
-  
+
 
 /* body{
 
