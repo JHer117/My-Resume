@@ -29,6 +29,7 @@ body{
 
 }
 
+
 #about_me_container{
     background-color: rgba(173, 171, 171, 0.459);
     margin-bottom: 20px;
@@ -37,8 +38,17 @@ body{
 }
 
 #about_me{
-    color: #2296b9;
+    color: rgb(255, 139, 31);
     
+}
+
+#about_me_xtra{
+    color: #2296b9;
+
+}
+
+.col-sm-12{
+    padding: 15px;
 }
 
 #tech_skills_header{
@@ -115,6 +125,11 @@ body{
 
 .card-body{
     background-color: rgb(247, 245, 229);
+    color: rgb(105, 166, 201);
+}
+
+.git_link_accordion{
+    text-decoration: underline;
 }
 
 #btn1{
