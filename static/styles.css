@@ -1,3 +1,18 @@
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+    .display-2{
+        font-size: 2.5rem;
+        font-weight: 300;
+        line-height: 1.2;
+    }
+  }
+
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+    #name_header{
+        margin-left: 0rem;
+    }
+}
+
+
 body{
     background-color: rgb(247, 245, 229);
     /* background: rgb(255,131,63);
@@ -15,20 +30,42 @@ body{
 
 .name_span{
     color: rgb(255, 139, 31);
-
+    
 }
 
 .info_span{
     color: #25a9d1;
 }
 
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+    #contact_info{
+        font-size: 13px;
+    }
+}
+
 .me1{
     width: 145px;
     margin-right: 20rem;
     margin-top: 2rem;
-
+    
 }
 
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+    .me1{
+        width: 100px;
+        margin-right: 2rem;
+        margin-top: 2rem;
+    }
+}
+
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+    #gh_btn{
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 34%;
+    }
+}
 
 #about_me_container{
     background-color: rgba(173, 171, 171, 0.459);
@@ -165,6 +202,12 @@ body{
 .text-muted{
     font-style: italic;
     font-size: small;
+}
+
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+    #bot_site_about{
+        font-size: 10px;
+    }
 }
 
 #foot_logo_1{
