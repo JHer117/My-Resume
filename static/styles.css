@@ -6,23 +6,25 @@
     }
   }
 
-@media screen and (max-device-width: 480px) and (orientation: portrait){
-    #name_header{
-        margin-left: 0rem;
+  
+  
+  body{
+      background-color: rgb(247, 245, 229);
+      /* background: rgb(255,131,63);
+      background: linear-gradient(90deg, rgba(255,131,63,1) 1%, rgba(58,162,180,1) 35%, rgba(194,29,253,1) 100%);  */
     }
-}
+    
+    #name_header{
+        margin-left: 2.5rem;
+    }
+    
+    @media screen and (max-device-width: 480px) and (orientation: portrait){
+        #name_header{
+            margin-left: 0rem;
+        }
+    }
 
-
-body{
-    background-color: rgb(247, 245, 229);
-    /* background: rgb(255,131,63);
-    background: linear-gradient(90deg, rgba(255,131,63,1) 1%, rgba(58,162,180,1) 35%, rgba(194,29,253,1) 100%);  */
-}
-
-#name_header{
-    margin-left: 2.5rem;
-}
-
+    
 .btn{
     background-color: rgb(255, 139, 31);
     color: rgb(255, 139, 31);
